@@ -1,7 +1,7 @@
 # CNN Image Classification - CIFAR-10
 
 ## Student Information
-- **Student ID**: [Your ID]
+- **Student ID**: 23-50363-1
 - **Course**: CVPR Mid Assignment Summer 25-26
 - **Dataset**: CIFAR-10
 
@@ -9,7 +9,7 @@
 CNN implementation for CIFAR-10 image classification with 10 classes.
 
 ## Results
-- **Test Accuracy**: XX.XX%
+- **Test Accuracy**: 94.6%
 - **Best Validation Accuracy**: XX.XX%
 
 ## How to Run
