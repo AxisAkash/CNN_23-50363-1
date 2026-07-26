@@ -1,9 +1,9 @@
  CNN Image Classification - CIFAR-10
 
  Student Information
-- **Student ID: 23-50363-1
+- Student ID: 23-50363-1
 - Course: CVPR Mid Assignment Summer 25-26
-- **Dataset**: CIFAR-10
+- Dataset: CIFAR-10
 
  Project Description
 CNN implementation for CIFAR-10 image classification with 10 classes.
